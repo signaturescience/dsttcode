@@ -1,0 +1,4 @@
+- source: dstt-functions-fluview.qmd
+  quarto-pub:
+    - id: 55d4559c-4e93-4995-9837-35df7076cc64
+      url: 'https://strnr.quarto.pub/dstt-functions-fluview'
